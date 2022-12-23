@@ -1,0 +1,46 @@
+{
+  "name": "Pelucon Community Friends #1",
+  "symbol": "PeluNfts",
+  "description": "Pelucon is a collection of 10,000 friends of different colors and expressions",
+  "seller_fee_basis_points": 1000,
+   "image": "https://raw.githubusercontent.com/PaolaCabrera1/PeluNfts/3338d4c2ed02098bf44cb2fcfc7eeacd28968bdf/1.png",
+  "external_url": "",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "1-background",
+      "value": "light_yellow_2"
+    },
+    {
+      "trait_type": "2-boody",
+      "value": "orange_4"
+    },
+    {
+      "trait_type": "3-mouth",
+      "value": "mouth13"
+    },
+    {
+      "trait_type": "4-eyes",
+      "value": "red_eyes_with_white"
+    },
+    {
+      "trait_type": "5-hat",
+      "value": "hat48"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "0x1485eA1107D4a6CC81df17d00bA975dee9f1e397",
+        "share": 100
+      }
+    ]
+  }
+}
